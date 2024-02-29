@@ -1,4 +1,4 @@
-# challenge_10_Module_Crypto_Investmentspto-
+# challenge_10_Module_Crypto_Investments-
 
 The objective of the challenge is to apply the unsupervised learning coding using python to cluster the performance of different crypto currency over time.  The challenge also requires to apply different visualizations to the clustering to analyze the crypto portfolio.
 The file containing the code is located in the Git Repository File named crypto_investments.ipynb
